@@ -6,9 +6,8 @@
 - 😄 Pronouns: Akasshhhh
 - ⚡ Fun fact: you dont know me
 - 
-  SALESFORCE--https://www.salesforce.com/trailblazer/akashsingh0
-  
-  CODING NINJA--https://www.codingninjas.com/studio/profile/Code_Joker
+- SALESFORCE--https://www.salesforce.com/trailblazer/akashsingh0 
+- CODING NINJA--https://www.codingninjas.com/studio/profile/Code_Joker
 <!---
 Aksingh-16/Aksingh-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
