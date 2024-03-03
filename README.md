@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on big players
 - 📫 How to reach me move your head upward 
 - 😄 Pronouns: Akasshhhh
-- ⚡ Fun fact: you dont know me 
+- ⚡ Fun fact: you dont know me
+- 
   SALESFORCE--https://www.salesforce.com/trailblazer/akashsingh0
   
   CODING NINJA--https://www.codingninjas.com/studio/profile/Code_Joker
